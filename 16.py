@@ -1,0 +1,5 @@
+fruit_color = input("what is the color of the fruit?" \n)
+if fruit_color == "green": print ("unripe")
+elif fruit_color == "yellow" : print("ripe")
+elif fruit_color == "brown" : print ("overripe")
+else : print("invalid input")
